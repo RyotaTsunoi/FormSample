@@ -32233,7 +32233,7 @@ $S:279}
 A.zt.prototype={
 pl(a,b,c){var s=null,r=new A.PT(c),q=t.DO,p=c.r_($.adL(),q),o=A.ach(s,"Noto Sans JP"),n=A.ach(B.aL,s),m=t.E
 m=A.abc(A.a([new A.dd(B.mP,new A.Ah("\u30c9\u30ed\u30c3\u30d7\u30c0\u30a6\u30f3\u30b5\u30f3\u30d7\u30eb",B.GY,new A.PU(),s),s),B.lB,new A.dd(B.mP,new A.Ai("\u30c8\u30b0\u30eb\u30dc\u30bf\u30f3\u30b5\u30f3\u30d7\u30eb",B.K5,new A.Iu(B.Vr,$.b9()),s),s),B.lB,new A.dd(B.d4,A.GU(p,new A.PV(r),B.YX,B.lt,q),s),new A.dd(B.d4,A.GU(p,new A.PW(r),B.Z0,B.zS,q),s),new A.dd(B.d4,A.GU(p,new A.PX(r),B.YS,B.zT,q),s),new A.dd(B.d4,A.GU(p,new A.PY(r),B.Z_,B.zU,q),s),new A.dd(B.d4,A.GU(p,new A.PZ(r),B.Z1,B.zV,q),s),B.lB,A.k3(A.a([A.k3(A.a([A.uy(s,!1,p,s,new A.Q_(r),!1,B.lt,q),B.AP],m),B.ba,B.bG,B.b3),B.fx,A.k3(A.a([A.uy(s,!1,p,s,new A.Q0(r),!1,B.zS,q),B.YZ],m),B.ba,B.bG,B.b3),B.fx,A.k3(A.a([A.uy(s,!1,p,s,new A.Q1(r),!1,B.zT,q),B.YW],m),B.ba,B.bG,B.b3),B.fx,A.k3(A.a([A.uy(s,!1,p,s,new A.Q2(r),!1,B.zU,q),B.YT],m),B.ba,B.bG,B.b3),B.fx,A.k3(A.a([A.uy(s,!1,p,s,new A.Q3(r),!1,B.zV,q),B.YV],m),B.ba,B.bG,B.b3)],m),B.ba,B.PJ,B.b3)],m),B.ba,B.b3,B.cU)
-return new A.tx(new A.v6(new A.HT(!0,m,s),s),"(\u958b\u767a)SV\u30a2\u30d7\u30ea",o,n,B.AQ,B.O5,B.J_,!1,s)}}
+return new A.tx(new A.v6(new A.HT(!0,m,s),s),"FormSample",o,n,B.AQ,B.O5,B.J_,!1,s)}}
 A.PT.prototype={
 $1(a){var s=this.a.r_($.adL().Q,t.dd)
 J.aK(s).Ke(s,a)},
